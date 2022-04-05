@@ -3,4 +3,4 @@
 ## This is my project README file
 
  - Pushing to GitHub
- - Editing and syncroising between local environment and remote repository
+ - Editing and syncronising between local environment and remote repository
